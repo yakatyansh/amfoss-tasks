@@ -1,0 +1,57 @@
+layout: stacked
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+    
+  social_media:
+  behance: Nil
+  dribbble: Nil
+  facebook: Yash Katyan
+  hackerrank: ykpetrolhead08
+  instagram: yash.k_12
+  keybase: Nil
+  linkedin: Yash Katyan
+  medium: Nil
+  stackoverflow: your_user_id
+  telegram: yk208
+  twitter: Yash K
+  unsplash: your_username
+  vk: your_username
+  website: http://your_website_url
+  youtube: your_username
+
+topics:
+  - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+  - name: Web design
+
+  - name: Sass
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
