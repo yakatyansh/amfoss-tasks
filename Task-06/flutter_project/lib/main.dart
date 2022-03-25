@@ -112,7 +112,7 @@ class HomeScreen extends StatelessWidget {
                     Image.asset('images/welcome.png'),
                     const Text('Yash Katyan', textScaleFactor: 2),
                     const Text(
-                      'A optimistic person who believes in '
+                      'An optimistic person who believes in '
                           'dreaming big',
                       textScaleFactor: 1,
                     )
