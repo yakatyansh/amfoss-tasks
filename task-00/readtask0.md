@@ -1,3 +1,4 @@
-## Installing Ubuntu on my system.
-I am daily driving a macbook which obviously runs MacOS so i didn't need to install 
-ubuntu.I have increased the use of terminal now and i am familiarising with Git.
+# Installing Ubuntu on my system.
+I am daily driving a Machine with MacOS so i didn't require to install ubuntu. 
+However I have added and removed dual booting from my previous windows machine with 
+i3 8th gen and it took me one whole day.
