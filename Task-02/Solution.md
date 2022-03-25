@@ -60,7 +60,7 @@
 
 3. git add Task-2
 
-4. git commit -m "Task-2 Commited"
+4. git commit -m "your commit message here"
 
 5. git status
 
