@@ -3,7 +3,7 @@
 **I am Yash Katyan from Patna Bihar,fresher at Amrita School of Engineering(ELC 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/ydts2/amfoss-tasks/tree/master/task-00)|Installing Ubuntu|Completed
+[Task-00](https://github.com/ydts2/amfoss-tasks/tree/master/Task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/ydts2/amfoss-tasks/tree/master/task-01)|Starring amFOSS repositories|Completed
 [Task-02](https://github.com/ydts2/amfoss-tasks/tree/master/Task-02)|Coordinates finding|Completed
 [Task-03](https://github.com/ydts2/amfoss-tasks/tree/master/Task-03)|Programming| Attempted two questions
@@ -20,13 +20,8 @@
 [Task-14](https://github.com/ydts2/amfoss-tasks/tree/master/task-14)|Bandit|Completed
 [Task-15](https://github.com/ydts2/amfoss-tasks/tree/master/Task-15)|Project Euler|Not Completed
 ## My views about the tasks
-I myself have not completed all the tasks so i cannot directly say that they were easy but yaa they were not of that type that they 
-would be out of the range of freshers.They were so amazing that i cannot have a particular word to describe them.They challange us to 
-increase our knowledge that is the best part of it.The tasks are designed to cultivate the habit of self learning in which they are 
-successful atleast in my case.
+I myself have not completed all the tasks so I cannot assure the fact myself that the tasks are easy. they are tough for sure. But being problem solvers if we are able to tackle all difficulties in the tasks we will surely succeed in performing atleast 10 tasks.The tasks are designed to cultivate the habit of self learning and develop a fighting spirit in which they are successful atleast in my case.
 ## My Introduction
 Hii Seniors :pray: I am Yash Katyan from Patna Bihar.I came to know about amFOSS from quora since then it fascinated me.
-I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
-JAVA to an extent but after attempting the tasks I personally find a great improvement in my knowledge this is what I basically want from 
-me that each day when I get up in the morning I find myself improved than the previous day and this is what doing the tasks i have achieved.
+My rejection from Tier 1 (IITs/NITs) colleges gave me a lot of pain and i was not feeling good. After all that I decided that I will perform as good  as the students of Tier 1 colleges and I believe that the club will help me a lot to acheive this dream of mine. In return i am ready to give my 200% into the club.
 
